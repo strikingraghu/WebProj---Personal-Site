@@ -2,18 +2,27 @@ body {
   background-color: rgb(211, 224, 226);
 }
 
+.profile {
+    width: 550px;
+}
+
+.workexp-title {
+    column-width: auto;
+
+}
+
 hr {
   border-style: none;
   border-top-style: dotted;
   border-color: grey;
   border-width: 5px;
-  width: 4%;
+  width: auto;
 }
 
 h1 {
-    color: steelblue;
+  color: steelblue;
 }
 
 h3 {
-    color: steelblue;
+  color: steelblue;
 }
