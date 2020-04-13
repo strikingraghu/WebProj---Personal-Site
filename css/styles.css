@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(211, 224, 226);
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 4%;
+}
+
+h1 {
+    color: steelblue;
+}
+
+h3 {
+    color: steelblue;
+}
